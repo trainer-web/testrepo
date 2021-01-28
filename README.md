@@ -1,2 +1,3 @@
 # testrepo
 training
+# project notes
